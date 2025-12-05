@@ -1,0 +1,9 @@
+{
+	"name": "datafacrotyspotify",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e4738cf-3c21-4053-9564-d2ed45da8f8e",
+		"tenantId": "0cb35ad0-b37d-4ed3-93a5-96bc68660c19"
+	}
+}
